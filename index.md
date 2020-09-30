@@ -17,6 +17,10 @@
             <h6>SYED MUHAMMAD BILAL RIZVI</h6>
 
             <p>Lorem ipsum dolor sit amet <b>consectetur adipisicing elit</b>. Voluptatum impedit nobis, deserunt quis quaerat nostrum repudiandae ut, exercitationem, voluptas assumenda aliquam. Dolore inventore vel, consequatur doloribus <b><i>quo maiores libero culpa?</i></b></p>
+
+<p>a<sup>2</sup> + 2ab + b<sup>2</sup></p>
+
+            <p>C<sub>2</sub>SO<sub>4</sub></p>
         </section>
 
         <footer>This is a test. &copy;</footer>
